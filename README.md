@@ -2,6 +2,7 @@
 
 Atualmente, trabalho em uma empresa de construção de usinas solares, atuando com suporte de TI e backoffice de atendimento em energia solar. Estou em transição para a área de desenvolvimento.
 
+Aqui, um pouco das tecnologias que ja usei:
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
     <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
